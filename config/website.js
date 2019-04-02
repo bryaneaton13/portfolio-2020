@@ -24,3 +24,43 @@ module.exports = {
   themeColor: tailwind.colors['green-light'],
   backgroundColor: tailwind.colors['blue-dark'],
 };
+Software Engineer who creates solutions.
+A software engineer who creates technical solutions to solve problems.
+
+I am a co-founder for multiple technology solutions startups. My
+          responsibilities have included development,
+          architecture/infrastructure, maintenance, customer support, and sales.
+          I mostly focus on Javascript applications all the way through backend,
+          frontend, and mobile. I also support clients in their need for
+          high-quality applications that need to be built out quickly. With over
+          10 years of experience doing web development, I can bring my expertise
+          to you.
+
+          
+const projects = [
+  {
+    title: 'Stitched Story',
+    url: 'https://learn.stitchedstory.com',
+    bg: 'linear-gradient(to right, #D4145A 0%, #FBB03B 100%)',
+    description: 'The easiest way to capture video content from your users.',
+  },
+  {
+    title: 'Church Echo',
+    url: 'https://www.churchecho.com',
+    bg: 'linear-gradient(to right, #D4145A 0%, #ED1E79 100%)',
+    description: `We make connecting with your church easier, even if they can't make it in person that week.`,
+  },
+  {
+    title: 'ZÜM Media',
+    url: 'https://www.zummedia.com',
+    bg: 'linear-gradient(to right, #3454DA 0%, #3a3b33 100%)',
+    description: `A development and production company specializing in premium content for television, film, and digital platforms worldwide.`,
+  },
+  {
+    title: 'HRVids',
+    url: 'https://www.hrvids.com',
+    bg: 'linear-gradient(to right, #662D8C 0%, #FBB03B 100%)',
+    description:
+      'Capture videos from your applicants to pre-screen them faster',
+  },
+];

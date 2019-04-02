@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-
-sitemap: https://www.bryaneaton.com/sitemap.xml
